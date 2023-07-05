@@ -1,4 +1,4 @@
-# ESP32 TFT_eSPI
+# ESP-IDF TFT_eSPI
 
 ## Description
 ESP-IDF에서 TFT_eSPI 라이브러리 테스트   
