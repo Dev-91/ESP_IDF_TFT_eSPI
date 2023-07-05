@@ -1,7 +1,6 @@
 #include <TFT_eSPI.h>
 
 #include "duck.h"
-#define DUCK_IMG
 
 static const char *TAG = "TFT";
 
